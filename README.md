@@ -1,3 +1,3 @@
-# Estudo-novo/versionamento
+# Estudo-novo
 
-Salvando modificações no Git
+## Salvando alterações no GIT
